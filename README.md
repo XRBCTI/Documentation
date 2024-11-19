@@ -1,2 +1,2 @@
 # Documentation
-Documentation XR projects of XR developments (Virtual reality, Mixed reality and Augmented reality)
+Documentation of the XR projects and developments (Virtual reality, Mixed reality and Augmented reality) in the BCTI
