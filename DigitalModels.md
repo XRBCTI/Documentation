@@ -41,12 +41,5 @@ The development of 3D digital models followed these structured steps:
 
    ![Workflow](./Images/Metodology.jpg)
 
-## Results  
 
-The 3D digital models successfully met the objectives for Virtual Reality and Augmented Reality experiments conducted within the digital reality experimentation framework.  
-
-
-## Conclusions  
-
-- Low-poly models should have a polygon count of 2,000 or fewer to ensure virtual scenes remain lightweight and maintain a high level of user experience fidelity.  
-- High-quality 3D digital models with accurate textures and strong resemblance to real-world objects are essential for implementing Virtual Reality and Augmented Reality technologies. Such models enhance realism and improve user immersion in digital environments.  
+## Example Process 

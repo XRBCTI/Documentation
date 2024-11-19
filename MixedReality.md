@@ -1,12 +1,4 @@
----
-**Title:** Mixed Reality  
-**Ordered:** True  
-**Has Children:** True  
-**Parent:** Digital Reality Experiment  
-**TOC:** True  
-**Summary:**  
-**Tags:**  
----
+
 
 # **Mixed Reality**
 
